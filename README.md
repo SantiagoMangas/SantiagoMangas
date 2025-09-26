@@ -4,17 +4,17 @@
 ---
 
 ### 🚀 Sobre mí
-- 🎓 Actualmente estudio **Tecnicatura Universitaria en Programación** en la **Universidad Nacional del Sur**.  
-- 💻 Desarrollé proyectos como una **Pokédex en Flutter**, un **portafolio con React + Tailwind**, y páginas con **Next.js**.  
+- 🎓 Desarrollador web en formación con experiencia en proyectos freelance y pasantías. Enfocado en el desarrollo de soluciones eficientes, la resolución de problemas y el trabajo colaborativo en entornos de programación.  
+- 💻 Desarrollé proyectos como una **Pokédex en Flutter**, un **portafolio personal con React + Tailwind**, proyectos universitarios, una pasantía relacionada a **Visión Artificial** con tecnologias como OpenCV, Python entre otras y páginas de modo freelance con **Next.js**, Base de datos, entre otras.  
 - 🌱 Me apasiona aprender nuevas tecnologías, resolver problemas y crear proyectos que tengan impacto real.  
-- 🏐 Fun fact: juego **vóley** como central.  
+- 🏐 Fun fact: Apacionado del deporte, en mi tiempo libre compito en **vóley** y estudio **entidades deportivas** en una carrera relacionada a la economia, Tecnicatura en Deporte en la **Univerdad Nacional del Sur**.  
 
 ---
 
 ### 🛠️ Tecnologías que uso
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,html,css,js,ts,react,nextjs,tailwind,nodejs,express,mongodb,mysql,postgres,py,java,flutter,dart,docker,kubernetes,aws&perline=12" />
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,html,css,js,ts,react,nextjs,tailwind,nodejs,express,mongodb,mysql,postgres,py,java,flutter,dart,opencv,python,aws&perline=12" />
   </a>
 </p>
 
