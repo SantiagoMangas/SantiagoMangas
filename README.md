@@ -34,12 +34,7 @@
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=AdityaKanoi2001&theme=dark&hide_border=true"/>
 </p>
 
-<div align="center">
-  
-[![](https://visitcount.itsvg.in/api?id=tuUsuarioGitHub&icon=3&color=6)](https://visitcount.itsvg.in)
-  
-</div>
-
+---
 
 ### 🤝 Conectemos
 <p align="center">
