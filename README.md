@@ -22,11 +22,11 @@
 
 ### 📊 GitHub Stats <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px">
 <p align="center">
-  <a href="https://github.com/Adityakanoi2001">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Adityakanoi2001&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <a href="https://github.com/SantiagoMangas">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=SantiagoMangas&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   </a>
-  <a href="https://github.com/Adityakanoi2001">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Adityakanoi2001&layout=compact&langs_count=8&theme=algolia"/>
+  <a href="https://github.com/SantiagoMangas">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SantiagoMangas&layout=compact&langs_count=8&theme=algolia"/>
   </a>
 </p>
 
