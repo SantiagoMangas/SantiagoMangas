@@ -5,7 +5,6 @@
 
 ### 🚀 Sobre mí
 - 🎓 Desarrollador web en formación con experiencia en proyectos freelance y pasantías. Enfocado en crear soluciones eficientes, resolver problemas y trabajar en equipo.  
-- 💻 Proyectos destacados: **Pokédex en Flutter**, **portafolio con React + Tailwind**, desarrollo con **Next.js** y bases de datos, además de una pasantía en **Visión Artificial** usando Python y OpenCV.  
 - 👨🏻‍💻 Revisa mi [Portafolio personal](https://portfolio-three-roan-61.vercel.app/) para conocerme mejor.  
 - 🌱 Apasionado por aprender nuevas tecnologías y crear proyectos con impacto real.  
 - 🏐 En mi tiempo libre compito en **vóley** y estudio **entidades deportivas** en la Tecnicatura en Deporte de la **Universidad Nacional del Sur**.  
