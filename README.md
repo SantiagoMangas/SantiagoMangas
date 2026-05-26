@@ -1,10 +1,10 @@
 <h1 align="center">¡Hola! 👋 Soy Santiago</h1>
-<h3 align="center">Desarrollador Web & Estudiante de Programación</h3>
+<h3 align="center">Desarrollador Web & Estudiante de Licenciatura en Computación</h3>
 
 ---
 
 ### 🚀 Sobre mí
-- 🎓 Desarrollador web en formación con experiencia en proyectos freelance y pasantías. Enfocado en crear soluciones eficientes, resolver problemas y trabajar en equipo.  
+- 🎓 Desarrollador en formación con experiencia en proyectos freelance y pasantías. Enfocado en crear soluciones eficientes, resolver problemas y trabajar en equipo.  
 - 👨🏻‍💻 Revisa mi [Portafolio personal](https://portfolio-three-roan-61.vercel.app/) para conocerme mejor.  
 - 🌱 Apasionado por aprender nuevas tecnologías y crear proyectos con impacto real.  
 - 🏐 En mi tiempo libre compito en **vóley** y estudio **entidades deportivas** en la Tecnicatura en Deporte de la **Universidad Nacional del Sur**.  
